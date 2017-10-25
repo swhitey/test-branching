@@ -10,4 +10,13 @@ view: schema_migrations {
     type: count
     drill_fields: [filename]
   }
-}
+
+
+
+
+  dimension: sld {type: string
+    sql: select 'hey' ;;
+  }
+
+
+  }
