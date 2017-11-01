@@ -68,7 +68,6 @@ explore: user_data {
   }
 }
 
-#new blank slate
 
 
 explore: users {}
