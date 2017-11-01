@@ -68,8 +68,7 @@ explore: user_data {
   }
 }
 
-#features I'm working on
-#test
+#new features I'm working on
 
 explore: users {}
 # makes the changes to push
